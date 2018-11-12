@@ -1,9 +1,9 @@
 ![Logo of the project](https://i.ytimg.com/vi/2G1d3q8MlsI/maxresdefault.jpg)
 
 # P &middot;  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
-> Additional information or tag line
+> Python App that connects Arduino to Cloud
 
-A client app for sending data from arduino to firebase realTime database.
+A client app that talks to Ardunio over serial port, gets an array of data from multiple sensors and store that into firebase database.
 
 ## Requirements
 - Python 3.x
